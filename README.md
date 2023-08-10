@@ -1,5 +1,6 @@
 ## AWS DevSecOps Pipeline
-https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2021/01/21/pipeline-architecture.png
+![image](https://github.com/Gabinsime75/DevSecOp_Pipeline_Project/assets/115108532/f79ac4f1-20f4-448b-9b63-c23fab5a173d)
+
 
 DevSecOps pipeline using AWS cloud native services and open source security vulnerability scanning tools.
 
